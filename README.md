@@ -1,10 +1,10 @@
 #  Before and after fermentation: parameters of must and wine
 
-(Input aggirnati rispetto ai grafici!!!) --> aggiunti alcuni dati mancanti; 
+(Input adj. to graphs!!!) --> added some missing data; 
 
-Dataset proveniente dal tirocinio di uno studente della facoltà di Enologia e Viticultura di trento. La richiesta di aiuto dello studente citato al sottoscritto, 
-era di categorizzare una serie di campioni di laboratoria di chicci d'uva, provenienti da una sessantina di piante figlie sperimentali, nate dall'incrocio di due piante genitori,
-accuratamente selezionate per l'esperimento, secondo alcuni caratteri genetici come la buccia o la polpa dell'acino. 
-A seguito della categorizzazione, si voleva ottenere una rappresentazione grafica della distribuzione dei parametri biologici del mosto e del vino, quindi prima 
-e dopo la fermentazione. Collaborando con tale studente (mio caro amico), ho fornito supporto tecnico, grazie alle mie competenze di analisi dati tramite python, nell'intera procedura, garantendo il risultato qui esposto. Tale risultato è stato approvato e verra utilizzato nella tesi di tale studente. La soddisfazione di aver creato qualcosa di utile 
-a qualcuno, partendo da zero, in quanto io studente di economia senza alcuna competenza di informatica, è grande. Spero in futuro di poter collaborare ancora nell'ambito della ricerca ;). 
+Dataset from the internship of a student from the faculty of Enology and Viticulture in Trento. The student's request for help mentioned to yours truly, 
+was to categorize a series of laboratoria samples of grape berries, from about sixty experimental daughter plants, born from the crossing of two parent plants,
+carefully selected for the experiment, according to certain genetic traits such as skin or berry flesh. 
+Following categorization, we wanted to obtain a graphical representation of the distribution of biological parameters of must and wine, then before 
+and after fermentation. Collaborating with such a student (a good friend of mine), I provided technical support, thanks to my data analysis skills using python, in the whole procedure, ensuring the result shown here. This result was approved and will be used in the thesis of said student. The satisfaction of having created something useful 
+to someone, starting from scratch, as me an economics student with no computer science skills, is great. I hope in the future to collaborate again in the area of research ;). 
