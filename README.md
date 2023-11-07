@@ -1,7 +1,5 @@
 #  Before and after fermentation: parameters of must and wine
 
-(Input adj. to graphs!!!) --> added some missing data; 
-
 Dataset from the internship of a student from the faculty of Enology and Viticulture in Trento. The student's request for help mentioned to yours truly, 
 was to categorize a series of laboratoria samples of grape berries, from about sixty experimental daughter plants, born from the crossing of two parent plants,
 carefully selected for the experiment, according to certain genetic traits such as skin or berry flesh. 
